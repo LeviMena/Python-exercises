@@ -1,2 +1,2 @@
 # Python-exercises
-Início com Python
+Exercícios que eu fiz em Python na faculdade.
